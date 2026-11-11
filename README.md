@@ -22,3 +22,8 @@ NIM: 124140027
 - handson1: Transformasi Collection
 - handson2: Grouping & Aggregation
 - handson3: Sequence vs List
+
+## P5 - Functional Programming
+- handson1: Higher-Order Function
+- handson2: Lambda vs Function Reference
+- handson3: Closure (Counter Factory)
