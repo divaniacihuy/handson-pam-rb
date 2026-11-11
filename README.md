@@ -12,3 +12,8 @@ NIM: 124140027
 - handson1: Class & Inheritance
 - handson2: Interface & Data Class
 - handson3: Sealed Class untuk State
+
+## P3 - Generics
+- handson1: Generic Class (Box<T>)
+- handson2: Bounded Type Parameter
+- handson3: Variance (out)
