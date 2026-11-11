@@ -17,3 +17,8 @@ NIM: 124140027
 - handson1: Generic Class (Box<T>)
 - handson2: Bounded Type Parameter
 - handson3: Variance (out)
+
+## P4 - Collections and co.
+- handson1: Transformasi Collection
+- handson2: Grouping & Aggregation
+- handson3: Sequence vs List
