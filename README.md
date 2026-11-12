@@ -37,3 +37,8 @@ NIM: 124140027
 - handson1: Suspend Function Dasar
 - handson2: launch vs async
 - handson3: Structured Concurrency & Cancellation
+
+## P8 - Exceptions
+- handson1: Try-Catch-Finally Dasar
+- handson2: Custom Exception & Exception Hierarchy
+- handson3: Kotlin Sugar (try expression, require, error, multi-catch)
