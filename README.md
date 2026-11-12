@@ -47,3 +47,8 @@ NIM: 124140027
 - handson1: Unit Test Dasar (Pola AAA)
 - handson2: Testing Exception
 - handson3: Test Lifecycle & Setup
+
+## P10 - Build Systems
+- handson1: Resource & Packaging
+- handson2: Custom Gradle Task
+- handson3: Dependency Declaration
