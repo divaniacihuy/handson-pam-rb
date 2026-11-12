@@ -27,3 +27,8 @@ NIM: 124140027
 - handson1: Higher-Order Function
 - handson2: Lambda vs Function Reference
 - handson3: Closure (Counter Factory)
+
+## P6 - Parallel and Concurrent Programming
+- handson1: Race Condition
+- handson2: ExecutorService & Future
+- handson3: Producer-Consumer dengan BlockingQueue
