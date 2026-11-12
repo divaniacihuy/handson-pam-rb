@@ -42,3 +42,8 @@ NIM: 124140027
 - handson1: Try-Catch-Finally Dasar
 - handson2: Custom Exception & Exception Hierarchy
 - handson3: Kotlin Sugar (try expression, require, error, multi-catch)
+
+## P9 - Testing
+- handson1: Unit Test Dasar (Pola AAA)
+- handson2: Testing Exception
+- handson3: Test Lifecycle & Setup
