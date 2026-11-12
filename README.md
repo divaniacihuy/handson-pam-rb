@@ -32,3 +32,8 @@ NIM: 124140027
 - handson1: Race Condition
 - handson2: ExecutorService & Future
 - handson3: Producer-Consumer dengan BlockingQueue
+
+## P7 - Asynchronous Programming in Kotlin
+- handson1: Suspend Function Dasar
+- handson2: launch vs async
+- handson3: Structured Concurrency & Cancellation
