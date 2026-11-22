@@ -57,3 +57,8 @@ NIM: 124140027
 - handson1: Inline Function & Reified Generics
 - handson2: Tailrec Optimization
 - handson3: companion object & @JvmStatic
+
+## P12 - Reflection (JVM)
+- handson1: Inspeksi Kelas dengan KClass
+- handson2: Baca Nilai Property Dinamis
+- handson3: Custom Annotation + Reflection Validator
