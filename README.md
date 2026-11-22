@@ -62,3 +62,8 @@ NIM: 124140027
 - handson1: Inspeksi Kelas dengan KClass
 - handson2: Baca Nilai Property Dinamis
 - handson3: Custom Annotation + Reflection Validator
+
+## P13 - Backend Development Basics
+- handson1: HTTP Server Sederhana
+- handson2: Routing & JSON Sederhana
+- handson3: Request Handling & Status Code
