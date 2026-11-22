@@ -52,3 +52,8 @@ NIM: 124140027
 - handson1: Resource & Packaging
 - handson2: Custom Gradle Task
 - handson3: Dependency Declaration
+
+## P11 - The Java Virtual Machine and the Kotlin Compiler
+- handson1: Inline Function & Reified Generics
+- handson2: Tailrec Optimization
+- handson3: companion object & @JvmStatic
